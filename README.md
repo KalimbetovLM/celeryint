@@ -81,7 +81,7 @@ Step 7.  Tekshiruv
 Step 8. Epilog
     Eng muhim qismi, agar siz barcha qadamlarni oxirigacha o'qib chiqqan bo'lsangiz va bu sizga ozgina bo'lsa ham yordam bergan bo'lsa
     bilingki,men bundan xursandman. Shaxsan o'zim Celeryni o'rnatish va sozlash uchun 18 saotdan ko'p vaqt sarfladim. Bu yerdagi
-    barcha qadamlar internetning har xil burchaklaridan yig'ilgan. Xususan, StackOverFlow, ChatGPT, Youtube, Real Python sahifasi.Lekin ularning hech birida to'liq ma'lumot keltirilmagan edi. Aynan shuning uchun men bularni o'zbek tilida yozishga qaror qildim.
+    barcha qadamlar internetning har xil burchaklaridan yig'ilgan. Xususan, StackOverFlow, ChatGPT, Youtube, Real Python sahifasi.Lekin ularning hech birida to'liq ma'lumot keltirilmagan     edi. Aynan shuning uchun men bularni o'zbek tilida yozishga qaror qildim.
     Zero hech kim 1 soatlik ishga 18 soat vaqt sarflamasin. Izlanishdan charchamang. Xayr :)
 
 
