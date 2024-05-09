@@ -9,8 +9,8 @@ Step 1.  Boshlash
 
     Pipenv dasturlash muhitini o'rnatamiz va ishga tushiramiz. Buning uchun siz loyihangiz joylashgan papkaga CMD yoki Powershell'da kirasiz. Quyidagi buyruqlarni kiriting:
 
-        pip install pipenv     --> muhitni o'rnatadi
-        pipenv shell           --> muhitni ishga tushiradi
+        pip install pipenv     
+        pipenv shell           
         
     Agar o'rnatish chog'ida Already satisfied(yoki shunga o'xshash) xatolik chiqsa buning yechimi boshqa projectingizdan pipenv.exe 
     faylini ko'chirib olib joriy loyiha papkasiga ctrl + v qiling (faqat pipenv.exe'ning o'zini) va muhitni qayta ishga tushiring
@@ -78,11 +78,6 @@ Step 7.  Tekshiruv
 
     Agar funksiya ishlasa Celery butunlay ishga tushdi. Endi xursand bo'lishingiz mumkin.
 
-Step 8. Epilog
-    Eng muhim qismi, agar siz barcha qadamlarni oxirigacha o'qib chiqqan bo'lsangiz va bu sizga ozgina bo'lsa ham yordam bergan bo'lsa
-    bilingki,men bundan xursandman. Shaxsan o'zim Celeryni o'rnatish va sozlash uchun 18 saotdan ko'p vaqt sarfladim. Bu yerdagi
-    barcha qadamlar internetning har xil burchaklaridan yig'ilgan. Xususan, StackOverFlow, ChatGPT, Youtube, Real Python sahifasi.Lekin ularning hech birida to'liq ma'lumot keltirilmagan     edi. Aynan shuning uchun men bularni o'zbek tilida yozishga qaror qildim.
-    Zero hech kim 1 soatlik ishga 18 soat vaqt sarflamasin. Izlanishdan charchamang. Xayr :)
 
 
 
